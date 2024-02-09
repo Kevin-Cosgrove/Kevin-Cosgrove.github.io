@@ -16,7 +16,7 @@
     - Generate a probability of a closed won sale based on the sale's individual characteristics
     - Generate an expected value of an entire sales pipeline using predicted probabilities of individual sales outcomes in the pipeline.
 ####
-**Database Consultant @ Haver Analytics(_Jan 2022 - Present_)**
+**Database Consultant @ Haver Analytics (_Jan 2022 - Present_)**
 - Used **Python's** BeautifulSoup and Selenium packages to automate internal procedures for updating databases containing time sensitve economic and financial data. This resulted in speed improvements of **25%-95%** depending on the procedure.
 ####
 ####
@@ -33,7 +33,7 @@ The proposed model will be used to provide point predictions for new individual 
 ### Data Visualization of Earthquakes Across the Globe (2001-2023)
 [Github Repo]()
 
-Used **Python** to clean, process, and analyze over 700 unique earthquakes across the globe whose magnitude was at least 6.5 or larger.  Visualizations include feature distributions, a feature correlation heat map, a geographic scatter plot, a geograpgic density plot, and more.
+Used **Python** to clean, process, and analyze over 700 unique earthquakes across the globe whose magnitude was at least 6.5 or larger.  Visualizations include feature distributions, a feature correlation heat map, a geographic scatter plot, a geographic density plot, and more.
 
 ![Earthquake visualization](/assets/img/earthquake.jpg)
 
