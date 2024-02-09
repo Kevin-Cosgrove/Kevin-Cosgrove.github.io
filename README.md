@@ -1,8 +1,8 @@
 # Data Scientist/Data Consultant
-
+####
 #### Technical Skills: Python, SQL, R, Java, Minitab, Google Suite, Microsoft Suite
-
-
+####
+####
 ## Education						       		
 - M.S., Data Science	| Rochester Institute of Technology (_December 2023_)	 			        		
 - B.S., Economics | Pennsylvania State University (_May 2017_)
@@ -15,11 +15,11 @@
 - Currently designing two user interfaces for Haver's sales team:
     - Generate a probability of a closed won sale based on the sale's individual characteristics
     - Generate an expected value of an entire sales pipeline using predicted probabilities of individual sales outcomes in the pipeline.
-
+####
 **Database Consultant @ Haver Analytics(_Jan 2022 - Present_)**
 - Used **Python's** BeautifulSoup and Selenium packages to automate internal procedures for updating databases containing time sensitve economic and financial data. This resulted in speed improvements of **25%-95%** depending on the procedure.
-
-
+####
+####
 ## Projects
 ### B2B Sales Opportunity Outcome Predictor with KNN
 [Github Repo]()
@@ -29,7 +29,7 @@ The proposed model will be used to provide point predictions for new individual 
 
 
 ![B2B Sales Opportunity Outcome Predictor](/assets/img/salesteam.jpg)
-
+####
 ### Data Visualization of Earthquakes Across the Globe (2001-2023)
 [Github Repo]()
 
