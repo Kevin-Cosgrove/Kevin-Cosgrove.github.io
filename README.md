@@ -1,8 +1,8 @@
 # Data Scientist/Data Consultant
-####
+#### 
 #### Technical Skills: Python, SQL, R, Java, Minitab, Google Suite, Microsoft Suite
-####
-####
+#### 
+#### 
 ## Education						       		
 - M.S., Data Science	| Rochester Institute of Technology (_December 2023_)	 			        		
 - B.S., Economics | Pennsylvania State University (_May 2017_)
@@ -15,7 +15,7 @@
 - Currently designing two user interfaces for Haver's sales team:
     - Generate a probability of a closed won sale based on the sale's individual characteristics
     - Generate an expected value of an entire sales pipeline using predicted probabilities of individual sales outcomes in the pipeline.
-####
+#### 
 **Database Consultant @ Haver Analytics (_Jan 2022 - Present_)**
 - Used **Python's** BeautifulSoup and Selenium packages to automate internal procedures for updating databases containing time sensitve economic and financial data. This resulted in speed improvements of **25%-95%** depending on the procedure.
 ####
