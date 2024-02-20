@@ -13,8 +13,8 @@
     - Generate a probability of a closed won sale based on the sale's individual characteristics
     - Generate an expected value of an entire sales pipeline using predicted probabilities of individual sales outcomes in the pipeline.
 
-**Database Consultant @ Haver Analytics (_Jan 2022 - Present_)**
-- Used **Python's** BeautifulSoup and Selenium packages to automate internal procedures for updating databases containing time sensitve economic and financial data. This resulted in speed improvements of **25%-95%** depending on the procedure.
+**Economic Database Consultant @ Haver Analytics (_Jan 2022 - Present_)**
+- Used **Python's** BeautifulSoup and Selenium packages to automate internal procedures for updating databases containing time sensitve economic and financial data. This resulted in speed improvements of **25%-99%** depending on the procedure.
 
 ## Projects
 ### B2B Sales Opportunity Outcome Predictor with KNN
