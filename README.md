@@ -9,7 +9,7 @@
 
 ## Work Experience
 **Data Science Consultant @ Haver Analytics (_September 2023 - Present_)**
-- Conducted data collection, cleansing, processing, and analysis using **Excel** and **Python** for building a proof of concept model to deterministaclly and probabilistically classify B2B sales opportunities as either won or lost outcomes.
+- Conducted data collection, cleansing, processing, and analysis using **Excel** and **Python** for building a proof of concept model to deterministically and probabilistically classify B2B sales opportunities as either won or lost outcomes.
 - Currently designing two user interfaces for Haver's sales team:
     - Generate a probability of a closed won sale based on the sale's individual characteristics
     - Generate an expected value of an entire sales pipeline using predicted probabilities of individual sales outcomes in the pipeline.
