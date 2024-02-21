@@ -26,7 +26,7 @@ The proposed model will be used to provide point predictions for new individual 
 ![B2B Sales Opportunity Outcome Predictor](/assets/img/salesteam.jpg)
 
 ### Tolkien Universe Text Analytics
-[Github Repo](https://github.com/Kevin-Cosgrove/JRRT_Relationship_Network)
+[Github Repo](https://github.com/Kevin-Cosgrove/JRRT_Relationship_Network)  
 Used **Python** to scrape, clean, process, analyze and extract relationships and insights about the characters from the legendary works of J.R.R. Tolkien. Network graphs with community partitioning as well as character importance were explored in this project.
 ![Tolkien Universe Text Analytics](/assets/img/shire.jpg)
 
