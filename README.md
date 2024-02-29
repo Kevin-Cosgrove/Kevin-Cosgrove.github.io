@@ -24,7 +24,7 @@ Used **Python** to scrape, clean, process, analyze and extract relationships and
 ![Tolkien Universe Text Analytics](/assets/img/shire.jpg)  
 &nbsp;  
 ### Data Visualization of Earthquakes Across the Globe (2001-2023)
-[Github Repo]()  
+[Github Repo](https://github.com/Kevin-Cosgrove/Earthquake_Project)  
 Used **Python** to clean, process, and analyze over 700 unique earthquakes across the globe whose magnitude was at least 6.5 or larger.  Visualizations include feature distributions, a feature correlation heat map, a geographic scatter plot, a geographic density plot, and more.  
 ![Earthquake visualization](/assets/img/earthquake.jpg)
 
