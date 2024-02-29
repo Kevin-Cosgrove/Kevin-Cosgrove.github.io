@@ -22,7 +22,13 @@
 [Github Repo](https://github.com/Kevin-Cosgrove/JRRT_Relationship_Network)  
 Used **Python** to scrape, clean, process, analyze and extract relationships and insights about the characters from the legendary works of J.R.R. Tolkien. Network graphs with community partitioning as well as character importance were explored in this project.  
 ![Tolkien Universe Text Analytics](/assets/img/shire.jpg)  
-&nbsp;  
+&nbsp;
+### Discord Chatbot Powered by OpenAI
+[Github Repo](https://github.com/Kevin-Cosgrove/Discord_OpenAI_ChatBot)  
+Used **Python** to leverage Discord and OpenAI APIs to build a Discord chatbot. API retrievals and text parsing were explored in this project.
+![Discord Chatbot Powered by OpenAI](/assets/img/pic2.jpg)  
+&nbsp;
+
 ### Data Visualization of Earthquakes Across the Globe (2001-2022)
 [Github Repo](https://github.com/Kevin-Cosgrove/Earthquake_Project)  
 Used **Python** to clean, process, and analyze over 700 unique earthquakes across the globe whose magnitude was at least 6.5 or larger.  Visualizations include feature distributions, a feature correlation heat map, a geographic scatter plot, a geographic density plot, and more.  
