@@ -1,20 +1,23 @@
-# Data Scientist/Data Consultant
+# Data Scientist/AI Engineer
 
-### Technical Skills: Python, SQL, R, Java, Minitab, Google Suite, Microsoft Suite
+### Coding/Data Languages: Python, Bash, NoSQL, SQL
 
 ## Education						       		
-- M.S., Data Science	| Rochester Institute of Technology (_December 2023_)	 			        		
+- M.S., Data Science | Rochester Institute of Technology (_December 2023_)	 			        		
 - B.S., Economics | Pennsylvania State University (_May 2017_)
 - B.S., Biology | Pennsylvania State University (_May 2017_)
 
 ## Work Experience
-**Data Science Consultant @ Haver Analytics (_September 2023 - Present_)**
+**Data Scientist @ US AI (_April 2024 - Present_)**
+ - Under Construction.
+
+**Data Science Consultant @ Haver Analytics (_September 2023 - March 2024_)**
 - Conducted data collection, cleansing, processing, and analysis using **Excel** and **Python** for building a proof of concept model to deterministically and probabilistically classify B2B sales opportunities as either won or lost outcomes.
 - Currently designing two user interfaces for Haver's sales team:
     - Generate a probability of a closed won sale based on the sale's individual characteristics
     - Generate an expected value of an entire sales pipeline using predicted probabilities of individual sales outcomes in the pipeline.
 
-**Economic Database Consultant @ Haver Analytics (_Jan 2022 - Present_)**
+**Economic Database Consultant @ Haver Analytics (_January 2022 - March 2024_)**
 - Used **Python's** BeautifulSoup and Selenium packages to automate internal procedures for updating databases containing time sensitve economic and financial data. This resulted in speed improvements of **25%-99%** depending on the procedure.
 
 ## Projects
@@ -33,4 +36,7 @@ Used **Python** to leverage Discord and OpenAI APIs to build a Discord chatbot. 
 [Github Repo](https://github.com/Kevin-Cosgrove/Earthquake_Project)  
 Used **Python** to clean, process, and analyze over 700 unique earthquakes across the globe whose magnitude was at least 6.5 or larger.  Visualizations include feature distributions, a feature correlation heat map, a geographic scatter plot, a geographic density plot, and more.  
 ![Earthquake visualization](/assets/img/earthquake.jpg)
+
+## Resume
+[Github Repo](https://github.com/Kevin-Cosgrove/Resume)
 
