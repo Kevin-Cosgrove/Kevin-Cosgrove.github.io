@@ -37,6 +37,5 @@ Used **Python** to leverage Discord and OpenAI APIs to build a Discord chatbot. 
 Used **Python** to clean, process, and analyze over 700 unique earthquakes across the globe whose magnitude was at least 6.5 or larger.  Visualizations include feature distributions, a feature correlation heat map, a geographic scatter plot, a geographic density plot, and more.  
 ![Earthquake visualization](/assets/img/earthquake.jpg)
 
-## Resume
-[Github Repo](https://github.com/Kevin-Cosgrove/Resume)
+[See Entire Resume Here](https://github.com/Kevin-Cosgrove/Kevin-Cosgrove.github.io/blob/main/docs/resume.md)
 
