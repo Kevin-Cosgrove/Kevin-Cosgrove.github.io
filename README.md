@@ -1,15 +1,10 @@
 # Data Scientist/AI Engineer
 
-### Coding/Data Languages: Python, Bash, NoSQL, SQL
-
-## Education						       		
-- M.S., Data Science | Rochester Institute of Technology (_December 2023_)	 			        		
-- B.S., Economics | Pennsylvania State University (_May 2017_)
-- B.S., Biology | Pennsylvania State University (_May 2017_)
-
 ## Work Experience
 **Data Scientist @ US AI (_April 2024 - Present_)**
- - Under Construction.
+- Independently developed, deployed, and maintained a production-grade generative AI system for analyzing client cybersecurity compliance posture, processing sensitive and classified data and generating $750K+ in annual revenue
+- Redesigned US AI’s model serving architecture using clean code principles and scalable design patterns (Factory, Adapter), enabling modular self-hosting of 100+ ML algorithms and nearly 100 LLMs
+- Led R&D initiative to train a large language model from scratch via distributed training on a 20-node Kubernetes cluster; productionized the pipeline as a reusable training feature within the Forsight platform
 
 **Data Science Consultant @ Haver Analytics (_September 2023 - March 2024_)**
 - Conducted data collection, cleansing, processing, and analysis using **Excel** and **Python** for building a proof of concept model to deterministically and probabilistically classify B2B sales opportunities as either won or lost outcomes.
@@ -19,6 +14,11 @@
 
 **Economic Database Consultant @ Haver Analytics (_January 2022 - March 2024_)**
 - Used **Python's** BeautifulSoup and Selenium packages to automate internal procedures for updating databases containing time sensitve economic and financial data. This resulted in speed improvements of **25%-99%** depending on the procedure.
+
+## Education						       		
+- M.S., Data Science | Rochester Institute of Technology (_December 2023_)	 			        		
+- B.S., Economics | Pennsylvania State University (_May 2017_)
+- B.S., Biology | Pennsylvania State University (_May 2017_)
 
 ## Projects
 ### Tolkien Universe Text Analytics
